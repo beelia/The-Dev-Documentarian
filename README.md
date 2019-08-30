@@ -1,1 +1,1 @@
-# The Dev Documentarian
+# Dev Documentarian
